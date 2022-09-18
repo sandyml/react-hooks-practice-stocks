@@ -4,6 +4,7 @@ import PortfolioContainer from "./PortfolioContainer";
 import SearchBar from "./SearchBar";
 
 function MainContainer() {
+  
   return (
     <div>
       <SearchBar />
