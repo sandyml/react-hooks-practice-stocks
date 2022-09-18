@@ -11,6 +11,11 @@ h2 {
   margin: 0 auto;
   text-align: center;
 }
+p {
+  color: green;
+  font-family: inherit;
+  font-weight: 500;
+}
 
 .list-group {
   width: 50%;
